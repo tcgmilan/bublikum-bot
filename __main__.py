@@ -92,7 +92,6 @@ async def mc_log(mc_message_channel):
 
 
 
-
-bot.run(config["bot"]["token"])
+bot.run(str(config["bot"]["token"]))
 
 
