@@ -19,6 +19,7 @@ Run: `pip install -r requirements.txt && python .`
 
    [Linux/ OSX]   
 Run: `pip3 install -r requirements.txt && python3 .`
+4. Use `start.sh` to start the bot next time!
 
 
 ## Docker Setup
