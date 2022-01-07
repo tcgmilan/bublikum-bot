@@ -17,7 +17,8 @@
 3. [Windows]   
 Run: `pip install -r requirements.txt && python .`     
 
-   [Linux/ OSX] Run: `pip3 install -r requirements.txt && python3 .`
+   [Linux/ OSX]   
+Run: `pip3 install -r requirements.txt && python3 .`
 
 
 ## Docker Setup
