@@ -1,0 +1,3 @@
+[2022-01-07 00:45:59] - Szerver lefuttatta ezt a parancsot: mc_log
+[2022-01-07 00:46:00] - 𝖙𝖈𝖌𝖒𝖎𝖑𝖆𝖓#4690 lefuttatta ezt a parancsot: unmute
+[2022-01-07 00:46:01] - Szerver lefuttatta ezt a parancsot: mc_log

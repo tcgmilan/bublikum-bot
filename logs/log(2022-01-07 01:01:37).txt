@@ -1,0 +1,6 @@
+[2022-01-07 01:01:41] - Szerver lefuttatta ezt a parancsot: mc_log
+[2022-01-07 01:01:43] - Szerver lefuttatta ezt a parancsot: mc_log
+[2022-01-07 01:01:45] - Szerver lefuttatta ezt a parancsot: mc_log
+[2022-01-07 01:01:47] - Szerver lefuttatta ezt a parancsot: mc_log
+[2022-01-07 01:01:49] - Szerver lefuttatta ezt a parancsot: mc_log
+[2022-01-07 01:01:51] - Szerver lefuttatta ezt a parancsot: mc_log

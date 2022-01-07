@@ -1,0 +1,2 @@
+[2022-01-07 01:20:20] - 𝖙𝖈𝖌𝖒𝖎𝖑𝖆𝖓#4690 lefuttatta ezt a parancsot: ping
+[2022-01-07 01:20:21] - Szerver lefuttatta ezt a parancsot: mc_log

@@ -1,0 +1,16 @@
+[2022-01-07 01:22:15] - Szerver lefuttatta ezt a parancsot: mc_log
+[2022-01-07 01:22:17] - 𝖙𝖈𝖌𝖒𝖎𝖑𝖆𝖓#4690 lefuttatta ezt a parancsot: ping
+[2022-01-07 01:22:17] - Szerver lefuttatta ezt a parancsot: mc_log
+[2022-01-07 01:22:19] - Szerver lefuttatta ezt a parancsot: mc_log
+[2022-01-07 01:22:21] - Szerver lefuttatta ezt a parancsot: mc_log
+[2022-01-07 01:22:23] - Szerver lefuttatta ezt a parancsot: mc_log
+[2022-01-07 01:22:25] - Szerver lefuttatta ezt a parancsot: mc_log
+[2022-01-07 01:22:27] - Szerver lefuttatta ezt a parancsot: mc_log
+[2022-01-07 01:22:29] - Szerver lefuttatta ezt a parancsot: mc_log
+[2022-01-07 01:22:31] - Szerver lefuttatta ezt a parancsot: mc_log
+[2022-01-07 01:22:33] - Szerver lefuttatta ezt a parancsot: mc_log
+[2022-01-07 01:22:35] - Szerver lefuttatta ezt a parancsot: mc_log
+[2022-01-07 01:22:37] - Szerver lefuttatta ezt a parancsot: mc_log
+[2022-01-07 01:22:39] - Szerver lefuttatta ezt a parancsot: mc_log
+[2022-01-07 01:22:41] - Szerver lefuttatta ezt a parancsot: mc_log
+[2022-01-07 01:22:43] - Szerver lefuttatta ezt a parancsot: mc_log

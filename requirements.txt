@@ -1,0 +1,4 @@
+discord.py
+configparser
+discord_components
+mcstatus
