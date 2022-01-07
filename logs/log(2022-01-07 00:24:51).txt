@@ -1,7 +1,0 @@
-[2022-01-07 00:24:55] - Szerver lefuttatta ezt a parancsot: mc_log
-[2022-01-07 00:24:57] - Szerver lefuttatta ezt a parancsot: mc_log
-[2022-01-07 00:24:59] - Szerver lefuttatta ezt a parancsot: mc_log
-[2022-01-07 00:25:02] - Szerver lefuttatta ezt a parancsot: mc_log
-[2022-01-07 00:25:02] - 𝖙𝖈𝖌𝖒𝖎𝖑𝖆𝖓#4690 lefuttatta ezt a parancsot: mute
-[2022-01-07 00:25:03] - Szerver lefuttatta ezt a parancsot: mc_log
-[2022-01-07 00:25:05] - Szerver lefuttatta ezt a parancsot: mc_log
