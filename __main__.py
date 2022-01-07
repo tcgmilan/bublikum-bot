@@ -3,6 +3,7 @@ import inspect
 import configparser
 import datetime
 import json
+import os
 from discord import activity
 from discord.ext.commands import *
 from discord.ext.tasks import *
@@ -11,17 +12,18 @@ from discord_components import *
 from src.servers import minecraft_server, scp_server
 from src.moderation import _mute, _unmute
 
+config = configparser.ConfigParser()
+config.read("settings.ini")
 
 def now():
-    return datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    return datetime.datetime.now().strftime(config["bot"]["date_format"])
 
 def log_command(user, process_name):
     log = open(log_path, "a", encoding="utf8")
     log.write(f"[{now()}] - {user} lefuttatta ezt a parancsot: {process_name}\n")
     log.close()
 
-config = configparser.ConfigParser()
-config.read("settings.ini")
+
 
 activity = discord.Activity(type = discord.ActivityType.watching, name = "Fejlesztés Alatt @tcgmilan")
 status = discord.Status.dnd
@@ -92,6 +94,6 @@ async def mc_log(mc_message_channel):
 
 
 
-bot.run(str(config["bot"]["token"]))
+bot.run(os.getenv("TOKEN"))
 
 
