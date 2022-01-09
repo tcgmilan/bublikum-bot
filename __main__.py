@@ -10,7 +10,7 @@ from discord.ext.tasks import *
 from discord_components import *
 
 from src.servers import minecraft_server, scp_server
-from src.moderation import _mute, _unmute
+from src.moderation import _mute, _unmute, _ban
 
 config = configparser.ConfigParser()
 config.read("settings.ini")
@@ -65,6 +65,13 @@ async def unmute(ctx, member : discord.Member):
     global guild
     log_command(ctx.author, inspect.stack()[0][3])
     await ctx.send(embed = await _unmute.main(ctx, member, config))
+
+
+@bot.command()
+@has_any_role(*json.loads(config.get("kick","allowed_roles")))
+async def kick(ctx, member : discord.Member, **reason : str):
+    log_command(ctx.author, inspect.stack()[0][3])
+    await ctx.send(embed = await _ban.main(ctx, member, reason, config))
 
 
 @bot.command()
